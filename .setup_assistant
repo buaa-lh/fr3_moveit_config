@@ -1,7 +1,7 @@
 moveit_setup_assistant_config:
   urdf:
     package: ""
-    relative_path: /home/eric/Desktop/fr3.urdf
+    relative_path: config/fr3.urdf
   srdf:
     relative_path: config/fr3.srdf
   package_settings:

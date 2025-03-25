@@ -3,7 +3,7 @@
     <xacro:arg name="initial_positions_file" default="initial_positions.yaml" />
 
     <!-- Import fr3 urdf file -->
-    <xacro:include filename="/home/eric/Desktop/fr3.urdf" />
+    <xacro:include filename="fr3.urdf" />
 
     <!-- Import control_xacro -->
     <xacro:include filename="fr3.ros2_control.xacro" />
